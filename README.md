@@ -1,1 +1,1 @@
-![Little Lemon Logo](assets/readmeimg.png)
+![Little Lemon Logo](./src/assets/readmeimg.png)
